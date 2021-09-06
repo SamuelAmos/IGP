@@ -1,0 +1,12 @@
+"id","title","description","slug","color_hex","institution_id"
+1,"Anxious","Worry, nervousness or concern about something unpleasant that might happen or might have happened.","anxious","#F1A943",NULL
+2,"Depressed","Feeling sad and unable to enjoy anything; lacking energy, motivation and hope for the future.","depressed","#4B969C",NULL
+4,"Unable to Cope","An overwhelming feeling that your physical and mental resources are insufficient to resolve your current concerns.","unable-cope","#B16F9F",NULL
+5,"Postgraduate Self-help","Information and guidance for managing the psychological challenges of postgraduate research.","postgraduate-self-help","#573035",2
+3,"Lonely","Unhappy and/or anxious feelings about a lack of connection or communication with other people.","lonely","#35CE8D",NULL
+7,"Test Category- MGT","for testing content in Live App.","test-category-mgt","#5D5031",3
+8,"Pinned","Pinned self help","pinned","#423534",NULL
+11,"Body Budgeting","The Advanced modules","body-budgeting","#42295B",3
+12,"Bright Side of Life","Advanced Module 2","bright-side-life","#A28E53",3
+13,"Emotional Literacy","Advanced Module 3","emotional-literacy","#374977",3
+14,"Performance psychology","Advance module 4","performance-psychology","#007D60",3
